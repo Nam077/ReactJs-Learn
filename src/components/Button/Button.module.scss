@@ -51,7 +51,12 @@
         text-decoration: underline;
     }
 }
-
+.leftIcon,
+.rightIcon {
+    display: inline-block;
+    width: 26px;
+    text-align: left;
+}
 ///size
 .small {
     min-width: 88px;
